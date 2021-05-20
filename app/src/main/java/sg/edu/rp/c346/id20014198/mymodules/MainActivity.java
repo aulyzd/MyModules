@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent i = new Intent(MainActivity.this, MainActivityDetails.class);
                 i.putExtra("Module Code", "C346");
                 i.putExtra("Module Name", "Android Programming");
-                i.putExtra("Academic Year", "2020");
+                i.putExtra("Academic Year", 2020);
                 i.putExtra("Semester", 1);
                 i.putExtra("Module Credit", 4);
                 i.putExtra("Venue", "W66M");
