@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="C349">C349 Ipad Programming</string>
+    <string name="C346">C346 Mobile App Development</string>
+    <string name="textview">TextView</string>
+    <string name="return_button">Return</string>
+</resources>
